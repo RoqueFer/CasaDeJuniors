@@ -36,11 +36,10 @@ O desafiador que tiver mais pontos no fim do mês pode tirar dois chopps na faix
 
 ## Desafios por mês
 
-## Maio
+## Junho
 | Dificuldade | Descrição | Link do repositório | 1o lugar | 2o lugar | 3o lugar|
 |-------------|--------------------|--------------------|--------------------|--------------------|--------------------|
-|   Fácil     | To-do list    |          |    Em disputa        |    Em disputa   |  Em disputa   |
-|   Difícil   | CRUD (Tema Livre) |          |   Em disputa         |   Em disputa    |  Em disputa   |
+|   Difícil   | Jogo |          |   Em disputa         |   Em disputa    |  Em disputa   |
 
 
 
